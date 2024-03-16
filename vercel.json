@@ -1,5 +1,5 @@
 {
     "env": {
-      "AUTH_URL": "http://localhost:3000/api/auth"
+      "AUTH_URL": "https://nextjs-dashboard-musqa.vercel.app/api/auth"
     }
   }
